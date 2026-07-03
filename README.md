@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/snoopy.png" width="350" alt="Snoopy" />
+<img src="assets/snoopy-nobg.png" width="350" alt="Snoopy" />
 
 <br/><br/><br/>
 
