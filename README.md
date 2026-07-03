@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=60&duration=1&pause=100000&color=EF6A8D&center=true&vCenter=true&width=580&height=65&lines=FAUSTOCHE&cursor=false&repeat=false" alt="FAUSTOCHE" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&&weight=500size=22&duration=3000&pause=1000&color=FCBE39&center=true&vCenter=true&width=550&lines=D%C3%A9veloppeuse+Full-Stack+Junior;%C3%89tudiante+%C3%A0+l'%C3%89cole+42;En+recherche+de+stage" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=22&duration=3000&pause=1000&color=FCBE39&center=true&vCenter=true&width=550&lines=D%C3%A9veloppeuse+Full-Stack+Junior;%C3%89tudiante+%C3%A0+l'%C3%89cole+42;En+recherche+de+stage" alt="Typing SVG" />
 
 <br/>
 
