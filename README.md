@@ -2,7 +2,7 @@
 
 <img src="assets/snoopy-nobg.png" width="350" alt="Snoopy" />
 
-<br/><br/><br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=60&duration=1&pause=100000&color=EF6A8D&center=true&vCenter=true&width=580&height=65&lines=FAUSTOCHE&cursor=false&repeat=false" alt="FAUSTOCHE" />
 
@@ -11,7 +11,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/📍_Paris-F6F3E6?style=for-the-badge&labelColor=EF6A8D&color=F6F3E6" />
-<a href="https://www.linkedin.com/in/faustine-crocq"><img src="https://img.shields.io/badge/💼_LinkedIn-F6F3E6?style=for-the-badge&labelColor=F88600&color=F6F3E6" /></a>
+<a href="www.linkedin.com/in/faustine-crocq"><img src="https://img.shields.io/badge/💼_LinkedIn-F6F3E6?style=for-the-badge&labelColor=F88600&color=F6F3E6" /></a>
 <a href="https://faustoche.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-F6F3E6?style=for-the-badge&labelColor=F5C745&color=F6F3E6" /></a>
 
 </div>
