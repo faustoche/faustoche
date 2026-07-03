@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/b3692a38-3a84-4ca1-acc4-f5f927600b71" width="350" alt="Snoopy" />
+<img src="assets/snoopy.png" width="350" alt="Snoopy" />
 
 <br/><br/><br/>
 
