@@ -19,17 +19,33 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=42&duration=1&pause=100000&color=F88600&center=false&vCenter=true&width=240&height=60&lines=STACK&cursor=false&repeat=false" alt="STACK" />
-
-<img src="https://img.shields.io/badge/C++-4A3F35?style=for-the-badge&logo=cplusplus&logoColor=F5C745" />
-<img src="https://img.shields.io/badge/TypeScript-4A3F35?style=for-the-badge&logo=typescript&logoColor=F5C745" />
-<img src="https://img.shields.io/badge/Node.js-F88600?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP/Symfony-F88600?style=for-the-badge&logo=symfony&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-EF6A8D?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-EF6A8D?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://dummyimage.com/800x1/FCBE39/FCBE39.png" width="100%" alt="Ligne de séparation" />
 
 <br/>
 
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/C++-4A3F35?style=for-the-badge&logo=cplusplus&logoColor=F5C745" /><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-4A3F35?style=for-the-badge&logo=typescript&logoColor=F5C745" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Node.js-F88600?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/PHP/Symfony-F88600?style=for-the-badge&logo=symfony&logoColor=white" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Docker-EF6A8D?style=for-the-badge&logo=docker&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Git-EF6A8D?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=42&duration=1&pause=100000&color=F88600&center=false&vCenter=true&width=320&height=60&lines=PROJETS&cursor=false&repeat=false" alt="PROJETS" />
+<img src="https://dummyimage.com/800x1/FCBE39/FCBE39.png" width="100%" alt="Ligne de séparation" />
+
+<br/>
 
 <table align="center" width="100%">
   <tr>
